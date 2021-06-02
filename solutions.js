@@ -1,8 +1,23 @@
 "use strict";
 
-/**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  * Write your solutions here.
- *
+ /**
  * **Note**: While normally it is good practice to wrap your javascript in an
  * immediately invoked function expression (iife), you should _not_ do that
  * here. If you do, the automated tests will not be able to see your functions.
@@ -20,3 +35,30 @@
  * and
  * concat
  */
+
+ function isTrue(input){
+  return input ===false:
+
+}
+
+function isFalse(input){
+  return input === false;
+
+
+}
+function not(input){
+  return !input;
+
+}
+
+function addOne(input){
+  return ++ input;
+}
+
+function isEven(input){
+  return (input % 2) === 0;
+
+}
+function isIdentical((inputOne,inputTwo))
+
+
